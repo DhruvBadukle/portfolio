@@ -62,7 +62,7 @@ const ProjectDetails = ({
               >
                 View Project
                 <img
-                  src="/src/assets/arrow-up.svg"
+                  src="/assets/arrow-up.svg"
                   className="size-4"
                   alt="arrow icon"
                 />
