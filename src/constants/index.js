@@ -23,10 +23,10 @@ export const myProjects = [
     logo: "",
     image: NGO,
     tags: [
-      { id: 1, name: "React", path: "/src/assets/logos/react.svg" },
-      { id: 2, name: "TailwindCSS", path: "/src/assets/logos/tailwindcss.svg" },
-      { id: 3, name: "Git", path: "/src/assets/logos/git.svg" },
-      { id: 4, name: "Vite.js", path: "/src/assets/logos/vitejs.svg" },
+      { id: 1, name: "React", path: "/assets/react.svg" },
+      { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.svg" },
+      { id: 3, name: "Git", path: "/assets/git.svg" },
+      { id: 4, name: "Vite.js", path: "/assets/vitejs.svg" },
     ],
      
   },
@@ -46,9 +46,9 @@ export const myProjects = [
     logo: "",
     image: Travel,
     tags: [
-      { id: 1, name: "React", path: "/src/assets/logos/react.svg" },
-      { id: 2, name: "TailwindCSS", path: "/src/assets/logos/tailwindcss.svg" },
-      { id: 3, name: "Git", path: "/src/assets/logos/git.svg" },
+      { id: 1, name: "React", path: "/assets/react.svg" },
+      { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.svg" },
+      { id: 3, name: "Git", path: "/assets/git.svg" },
      ],
   },
   {
@@ -66,11 +66,11 @@ export const myProjects = [
     logo: "",
     image: MomsKitch,
     tags: [
-      { id: 1, name: "React", path: "/src/assets/logos/react.svg" },
-      { id: 2, name: "TailwindCSS", path: "/src/assets/logos/tailwindcss.svg" },
-      { id: 3, name: "MongoDB", path: "/src/assets/logos/sqlite.svg" },
-      { id: 4, name: "Node", path: "/src/assets/logos/nodelogo.png" },
-      { id: 5, name: "Vite.js", path: "/src/assets/logos/vitejs.svg" },
+      { id: 1, name: "React", path: "/assets/react.svg" },
+      { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.svg" },
+      { id: 3, name: "MongoDB", path: "/assets/sqlite.svg" },
+      { id: 4, name: "Node", path: "/assets/nodelogo.png" },
+      { id: 5, name: "Vite.js", path: "/assets/vitejs.svg" },
     ],
      
   },
@@ -89,9 +89,9 @@ export const myProjects = [
     logo: "",
     image: Dashboard,
     tags: [
-      { id: 1, name: "NextJs", path: "/src/assets/logos/nextjs.png" },
-      { id: 2, name: "TailwindCSS", path: "/src/assets/logos/tailwindcss.svg" },
-      { id: 3, name: "Git", path: "/src/assets/logos/git.svg" },
+      { id: 1, name: "NextJs", path: "/assets/nextjs.png" },
+      { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.svg" },
+      { id: 3, name: "Git", path: "/assets/git.svg" },
 
     ],
   },
@@ -110,10 +110,10 @@ export const myProjects = [
     logo: "",
     image: Education,
     tags: [
-      { id: 1, name: "React", path: "/src/assets/logos/react.svg" },
-      { id: 2, name: "TailwindCSS", path: "/src/assets/logos/tailwindcss.svg" },
-      { id: 3, name: "Git", path: "/src/assets/logos/git.svg" },
-      { id: 4, name: "Vite.js", path: "/src/assets/logos/vitejs.svg" },
+      { id: 1, name: "React", path: "/assets/react.svg" },
+      { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.svg" },
+      { id: 3, name: "Git", path: "/assets/git.svg" },
+      { id: 4, name: "Vite.js", path: "/assets/vitejs.svg" },
     ],
   },
   {
@@ -131,8 +131,8 @@ export const myProjects = [
     logo: "",
     image: Fruit,
     tags: [
-      { id: 1, name: "React", path: "/src/assets/logos/react.svg" },
-      { id: 2, name: "TailwindCSS", path: "/src/assets/logos/tailwindcss.svg" }
+      { id: 1, name: "React", path: "/assets/react.svg" },
+      { id: 2, name: "TailwindCSS", path: "/assets/tailwindcss.svg" }
     ],
   },
 ];
