@@ -5,9 +5,9 @@ import csharp from "../assets/logos/java.png";
 import dotnet from "../assets/logos/dotnet-pink.png";
 import blazor from "../assets/logos/Javascript.png";
 import Globe from "../components/globe";
+import Frameworks from "../components/FrameWork";
 import CopyEmailButton from "../components/CopyEmailButton";
-import Frameworks from "../components/framework";
-
+ 
 
 const About = () => {
     const grid2Container = useRef(null);
