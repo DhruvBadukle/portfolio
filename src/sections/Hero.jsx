@@ -1,8 +1,8 @@
 import HeroText from "../components/HeroText";
 import ParallerBackground from "../components/ParallerBackground";
-import Canvas from "@react-three/fiber";
-import Astronaut from "../components/Astronaut";
-import useMediaQuery from "react-responsive";
+import { Canvas } from "@react-three/fiber";
+import { Astronaut } from "../components/Astronaut";
+import { useMediaQuery } from "react-responsive";
 
 
 const Hero = () => {

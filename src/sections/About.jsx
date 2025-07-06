@@ -1,12 +1,13 @@
-import useRef from "react";
+import { useRef } from "react";
 import Card from "../components/Card";
+import { Globe } from "../components/globe";
+import CopyEmailButton from "../components/CopyEmailButton";
+import { Frameworks } from "../components/FrameWorks";
 import coding from "../assets/coding-pov.png";
 import csharp from "../assets/logos/java.png";
 import dotnet from "../assets/logos/dotnet-pink.png";
 import blazor from "../assets/logos/Javascript.png";
-import Globe from "../components/globe";
-import Frameworks from "../components/FrameWork";
-import CopyEmailButton from "../components/CopyEmailButton";
+
  
 
 const About = () => {
